@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "name": "Pot-roast Bombay chicken",
+        "cooktime": "20 minutes",
+        "ingredients": [ "1 small whole chicken", " 5 tablespoon tikka masala paste", " 1 tablespoon sunflower oil", " 1 large red onion, halved and sliced",
+             " 2 large tomatoes, halved and chopped", " 1 tablespoon fenugreek seeds","1 thumb-sized piece ginger, grated", " 2 400g cans full-fat coconut milk", 
+             " 1 500g new potatoes, halved", " 1 100g baby spinach", " 25g pack coriander, torn, to serve", " 1 poppadums and chutney, to serve (optional)"
+        ],
+        "steps": [
+            "Heat oven to 220C/200C fan/gas 6. Put the chicken on a chopping board and, using your hands, rub the skin generously with half the spice paste. Season well, tie the legs together and set aside.",
+            "Heat the oil in a large flameproof casserole dish over a medium heat. Add the onion and a good pinch of salt and cook for 5 mins or until beginning to soften. Add the tomatoes, fenugreek seeds, ginger and remaining spice paste, and cook for 3 mins more. Stir through the coconut milk and bring to a simmer. Add the chicken and the potatoes to the dish, and cook in the oven for 20 mins, uncovered.",
+            "Lower the heat to 180C/160C fan/ gas 4 and cook for 55 mins more. Check that the meat is cooked by cutting through one of its legs – the flesh shouldn’t be pink.",
+            "Remove the chicken and place on a chopping board. Stir the spinach through the sauce and leave to rest for 5 mins. Put the chicken back in the dish, top with the coriander and carve at the table. Serve with poppadums and chutney, if you like."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            420
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/bombay-chicken-5fab75d.jpg?quality=90&webp=true&resize=440,400",
+        "originalURL": "hhttps://www.bbcgoodfood.com/recipes/pot-roast-bombay-chicken"
+    },
+    {
+        "name": "Roasted asparagus & pea salad",
+        "cooktime": "20 minutes",
+        "ingredients": ["3 tbsp natural yogurt", " 1 tbsp wholegrain mustard", " ½ tsp honey", "½ lemon , zested and juiced", " 1 100g watercress", " 1 large slice sourdough bread", " 1 200g asparagus , tough ends removed", " 1 ½ tbsp cold-pressed rapeseed oil", " 2 eggs", " 1 200g frozen peas"
+        ],
+        "steps": [
+            "Heat oven to 220C/200C fan/gas 7. Mix the yogurt, mustard and honey together. Add the lemon zest, then add the juice and some seasoning to taste. Squeeze any remaining lemon juice over the watercress.",
+            "Tear the bread into rough chunks and put them on a large roasting tray with the asparagus. Toss both in the rapeseed oil and seasoning, and roast for 10 mins until the asparagus is tender and croutons are golden.",
+            "Meanwhile, cook the eggs in a pan of boiling water for 6 mins, then add the frozen peas and cook for 1 min more. Drain and rinse both under cold water until cool. Peel the eggs, then cut into quarters.",
+            "To assemble, mix the asparagus and peas through the watercress, then toss through the creamy dressing. Nestle in the eggs and croutons, and serve."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/egg-and-asparagus-salad-6265398.jpg?quality=90&webp=true&resize=440,400",
+        "originalURL": "https://www.bbcgoodfood.com/recipes/roasted-asparagus-pea-salad"
+    },
+    {
+        "name": "Lentil & sweet potato curry",
+        "cooktime": "35 minutes",
+        "ingredients": ["2 tbsp vegetable or olive oil", " 1 red onion, chopped", " 1 tsp cumin seeds", " 1 tsp mustard seeds (any colour)", 
+            " 1 tbsp medium curry powder", " 1 100g red or green lentil, or a mixture)", " 2 medium sweet potatoes, peeled and cut into chunks", 
+            " 1 500ml vegetable stock", " 1 400g can chopped tomato", " 1 400g can chickpea, drained", " ¼ small pack coriander (optional)", 
+            " 1 natural yogurt and naan bread, to serve"
+        ],
+        "steps": [
+            "Heat 2 tbsp vegetable or olive oil in a large pan, add 1 chopped red onion and cook for a few mins until softened.",
+            "Add curry powder and salt.Add 1 tsp cumin seeds, 1 tsp mustard seeds and 1 tbsp medium curry powder and cook for 1 min more, then stir in 100g red or green lentils (or a mixture), 2 medium sweet potatoes, cut into chunks, 500ml vegetable stock and a 400g can chopped tomatoes.",
+            "Bring to the boil, then cover and simmer for 20 mins until the lentils and sweet potatoes are tender. Add a drained 400g can chickpeas, then heat through.",
+            "Season, sprinkle with ¼ small pack coriander, if you like, and serve with seasoned yogurt and naan bread."
+        ],
+        "timers": [
+            0,
+            0,
+            20,
+            20,
+            0
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/lentil-curry-a348771.jpg?quality=90&webp=true&resize=440,400"
+    },
+    {
+        "name": "Tortilla pizza",
+        "cooktime": "18 minutes",
+        "ingredients": [ "4 tbsp passata", " 1 garlic clove , crushed", " ½ tbsp olive oil", " ½ tsp dried herbs (mixed herbs, basil or oregano work well)", "1 50g grated mozzarella",
+            " 6-8 slices pepperoni", " 6-8 pickled jalapeño slices"
+        ],
+        "steps": [
+            "Heat the oven to 220C/200C fan/gas 7. Mix the passata, garlic, olive oil, herbs and season well. ",
+            "Put the tortillas onto one large baking sheet, or two smaller ones. Spread over the tomato sauce leaving a 1cm border around the edges.",
+            "Scatter with the mozzarella, add the pepperoni and jalapeños.",
+            "Bake for 6-8 minutes until the edges of the tortillas are crisp and golden, and the cheese has melted and is bubbling."
+        ],
+        "timers": [
+            15,
+            60,
+            0,
+            0,
+            0,
+            15,
+            0
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/tortilla-pizza-c67da46.jpg?quality=90&webp=true&resize=440,400"
+    },
+    {
+        "name": "Coconut & squash dhansak",
+        "cooktime": "20 minutes",
+        "ingredients": [ "1 tbsp vegetable oil", " 1 500g butternut squash (about 1 small squash), peeled and chopped into bite-sized chunks", " 1 100g frozen chopped onions",
+            " 4 heaped tbsp mild curry paste", " 1 400g can chopped tomatoes", " 1 400g can light coconut milk", " 1 mini naan bread, to serve", " 1 400g can lentils, drained",
+             "1 200g bag baby spinach", " 1 150ml coconut yogurt"
+           ],
+        "steps": [
+            "Heat the oil in a large pan. Put the squash in a bowl with a splash of water. Cover with cling film and microwave on High for 10 mins or until tender.",
+            "Meanwhile, add the onions to the hot oil and cook for a few mins until soft. Add the curry paste, tomatoes and coconut milk, and simmer for 10 mins until thickened to a rich sauce.",
+            "Warm the naan breads in a low oven or in the toaster. Drain any liquid from the squash, then add to the sauce with the lentils, spinach and some seasoning.",
+            "Simmer for a further 2-3 mins to wilt the spinach, then stir in the coconut yogurt. Serve with the warm naan and a dollop of extra yogurt."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            30,
+            0
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/coconut-squash-dhansak-a3a9133.jpg?quality=90&webp=true&resize=400,400",
+        "originalURL": ""
+    },
+    {
+        "name": "James Martin's Yorkshire puds",
+        "cooktime": "40 minutes",
+        "ingredients": [ "200g plain flour", " 3 eggs", " 300ml milk", " 4 tbsp vegetable oil"
+        ],
+        "steps": [
+            "Put 200g plain flour and some seasoning into a large bowl, stir in 3 eggs, one at a time, then slowly whisk in 300ml milk until you have a smooth batter.",
+            "Chill in the fridge for at least 30 mins or up to a day.",
+            "Heat oven to 220C/180C fan/gas 7. Pour 4 tbsp vegetable oil into the holes of a 12-hole muffin tin, then heat the tin in the oven for 5 mins.",
+            "Carefully ladle the batter mix into the tin, then bake for 30 mins until well browned and risen."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            5,
+            0,
+            30
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-740564_11-b52d07b.jpg?quality=90&webp=true&resize=440,400",
+        "originalURL": "https://www.bbcgoodfood.com/recipes/james-martins-yorkshire-puds"
+    },
+    {
+        "name": "Chewy chocolate chip cookies",
+        "cooktime": "20 minutes",
+        "ingredients": [ "1 150g butter , softened", " 1 150g soft brown sugar , golden caster sugar, or ideally half of each", " 1 egg", " 1 tsp vanilla extract", 
+            " 1 180-200g plain flour", " ½ tsp baking powder", " 1 200g chocolate chips or chopped chocolate"
+        ],
+        "steps": [
+            "Mix the butter and sugar together using an electric whisk or hand whisk until very light and fluffy, then beat in the egg and vanilla. Fold in the flour, baking powder, chocolate and ¼ tsp salt as quickly as you can. Don’t overwork the dough as this will toughen the cookies.",
+            "For the best flavour, leave the mixture overnight: either cover the bowl and chill, or roll the mixture into balls and chill.",
+            "Heat the oven to 180C/160C fan/gas 4 and line two baking sheets with parchment. Divide the mixture into balls, the craggier the balls, the rougher the cookies will look. If you want to give the dough more texture, tear the balls in half and squidge them lightly back together. Space out evenly on the baking sheets, leaving enough space between each to allow for spreading. ",
+            "Bake the fresh cookies for 8-10 mins and the chilled ones for 10-12 mins, or until browned and a little crisp at the edges but still very soft in the middle – they will harden a little as they cool. Leave to cool on the tray for a few minutes before eating warm, or transfer to a wire rack to cool completely. Will keep for three days in an airtight container."
+        ],
+        "timers": [
+            15,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            8,
+            0
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chewy-choc-chip-cookies-2c49063.jpg?quality=90&webp=true&resize=440,400",
+        "originalURL": "https://www.bbcgoodfood.com/recipes/chewy-chocolate-chip-cookies"
+    },
+    {
+        "name": "American blueberry pancakes",
+        "cooktime": "35 minutes",
+        "ingredients": ["1 200g self-raising flour", " 1 tsp baking powder", " 1 egg", " 1 300ml milk", " 1 knob butter", " 1 150g pack blueberry", 
+            " 1 sunflower oil or a little butter for cooking", " 1 golden or maple syrup"
+       ],
+        "steps": [
+            "Mix together 200g self-raising flour, 1 tsp baking powder and a pinch of salt in a large bowl. Beat 1 egg with 300ml milk, make a well in the centre of the dry ingredients and whisk in the milk to make a thick smooth batter.",
+            "Beat in a knob of melted butter, and gently stir in half of the 150g pack of blueberries. Heat a teaspoon of sunflower oil or small knob of butter in a large non-stick frying pan.",
+            "Drop a large tablespoonful of the batter per pancake into the pan to make pancakes about 7.5cm across. Make three or four pancakes at a time. Cook for about 3 minutes over a medium heat until small bubbles appear on the surface of each pancake, then turn and cook another 2-3 minutes until golden.",
+            "Cover with kitchen paper to keep warm while you use up the rest of the batter. Serve with golden or maple syrup and the rest of the blueberries."
+        ],
+        "timers": [
+            10,
+            1,
+            60,
+            0,
+            0,
+            45,
+            0,
+            0
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1273456_8-a5710e5.jpg?quality=90&webp=true&resize=440,400",
+        "originalURL": "https://www.bbcgoodfood.com/recipes/american-blueberry-pancakes"
+    },
+    {
+        "name": "Curried chicken & mango salad",
+        "cooktime": "40 minutes",
+        "ingredients": ["6 chicken mini fillets", " 1 tsp olive oil", " 1 tbsp curry powder", " 4 tbsp Greek yogurt", " 2 tbsp mango chutney", 
+            " zest ½ lime and 2 tsp juice", " 1 Little Gem lettuce , leaves separated", " 1 ripe mango , peeled and sliced", " ½ red onion , finely sliced", 
+            " 2 tsp toasted sesame seed"
+        ],
+        "steps": [
+            "Heat oven to 200C/180C fan/gas 6. Toss the chicken in the oil and 1 tsp of the curry powder, season and mix well to coat. Put the chicken on a foil-lined baking tray and bake for 20 mins until cooked through. Leave to cool a little, then slice.",
+            "Meanwhile, make the dressing. In a bowl, combine the remaining curry powder with the yogurt, chutney and lime zest and juice (add 1 tbsp water if the dressing is a little thick).",
+            "To serve, arrange the lettuce leaves on 2 plates. Top with the mango and cooked chicken, then drizzle with the dressing.",
+            "Scatter with the red onion and sesame seeds before serving."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1287472_8-4cb4751.jpg?quality=90&webp=true&resize=440,400",
+        "originalURL": "https://www.bbcgoodfood.com/recipes/curried-chicken-mango-salad"
+    },
+    {
+        "name": "Sloppy joes",
+        "cooktime": "35 minutes",
+        "ingredients": ["1 tbsp vegetable oil", " 1 onion , finely chopped", " 2 small red peppers or yellow peppers, finely chopped", " 2 garlic cloves , crushed", " 400g minced beef", " 2 x 400ml cans chopped tomatoes", " 2 tbsp chipotle or smoky barbecue sauce", " 4 cheese slices", " 6 burger buns"],
+        "steps": [
+            "Heat the oil in a deep frying pan, then fry the onion, pepper and garlic for 8-10 mins until softened. Add the mince, breaking it up with a wooden spoon as you go, and stir until it browns all over. ",
+            "Tip in the tomatoes and chipotle, or barbecue sauce, and add a little seasoning. Simmer for 10-15 mins until the sauce has thickened.",
+            "Put the cheese slices on top of the mince and cover with a lid for 2 mins to let it melt into the sauce. ",
+            "Pile into the buns with the crispy onions, and lettuce on the side for scooping up the extra sauce."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/diner-sloppy-joes-6161e37.jpg?quality=90&webp=true&resize=440,400",
+        "originalURL": "https://www.bbcgoodfood.com/recipes/diner-sloppy-joes"
+    },
+    {
+        "name": "Easy cornflake tart",
+        "cooktime": "60 minutes",
+        "ingredients": ["320g ready-rolled shortcrust pastry", " plain flour, to dust", " 50g butter", " 125g golden syrup", " 25g light brown soft sugar", " 100g cornflakes", " 125g strawberry or raspberry jam", " custard, to serve" ],
+        "steps": [
+            "Heat the oven to 180C/160C fan/gas 4. Unroll the pastry and briefly roll out on a lightly floured work surface until it's large enough to fit a 23cm loose-bottomed tart tin. Use the rolling pin to lift the pastry over the tin, then press into the corners and sides so the excess pastry hangs over the rim. Trim this away, leaving just a small amount of excess hanging over the rim.",
+            "Line the pastry with baking parchment and fill with baking beans or uncooked rice. Bake for 15 mins. Remove the parchment and beans, then bake for another 5-10 mins until just golden. Remove from the oven and trim any excess pastry from the edges using a serrated knife.",
+            "Heat the butter, syrup and sugar in a small pan with a pinch of salt, stirring frequently, until melted and smooth. Fold in the cornflakes to coat in the butter mixture.",
+            "Spoon the jam into the cooked pastry base, then level the surface. Tip the cornflake mixture over the jam and gently press down until all of the jam is covered with a layer of the mixture. Return the tart to the oven and bake for another 5 mins until the cornflakes are golden and toasted. Leave to cool until just warm before slicing and serving with custard."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/cornflake-cake-f773778.jpg?quality=90&webp=true&resize=440,400",
+        "originalURL": "https://www.bbcgoodfood.com/recipes/easy-cornflake-tart"
+    },
+    {
+        "name": "Chestnut mushroom, fennel & bacon fusilli",
+        "cooktime": "45 minutes",
+        "ingredients": ["50ml olive oil , plus 1 tbsp", " 2 fennel bulbs , finely sliced", " 2 onions , finely sliced", " 4 garlic cloves , crushed",
+        " 2 red chillies , deseeded and finely sliced", " 4 tbsp tomato purée", " 250g pack streaky bacon , diced",
+        " 350g fusilli", " parmesan , grated, to serve"
+    ],
+        "steps": [
+            "Bring at 1 tbsp oil in a large pan over a medium heat and fry the fennel and onion for 15 mins, or until softened. ",
+            "Add the garlic and chilli, and cook for 1 min, then add the tomato purée and stir for 1 min more. Toss in the bacon and fry for 5-6 mins.",
+            "Meanwhile, cook the pasta according to pack instructions. Add the mushrooms to the frying pan, stir and cover for 8 mins, or until the mushrooms are softMeanwhile, cook the pasta according to pack instructions. Add the mushrooms to the frying pan, stir and cover for 8 mins, or until the mushrooms are softMeanwhile, cook the pasta according to pack instructions. Add the mushrooms to the frying pan, stir and cover for 8 mins, or until the mushrooms are softMeanwhile, cook the pasta according to pack instructions. Add the mushrooms to the frying pan, stir and cover for 8 mins, or until the mushrooms are soft",
+            "Drain the pasta, adding a ladle of the cooking water to the sauce. Tip in the pasta and stir to coat. Add the rest of the oil and scatter over the parsley and Parmesan."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chestnut-mushroom-fennel-bacon-fusilli-6b74cc0.jpg?quality=90&webp=true&resize=440,400",
+        "originalURL": "https://www.bbcgoodfood.com/recipes/chestnut-mushroom-fennel-bacon-fusilli"
+    },
+    {
+        "name": "Halloumi & watermelon bulgur salad",
+        "cooktime": "30 minutes",
+        "ingredients": ["200g bulgur wheat", " 50g pumpkin seed", " 3 tbsp olive or rapeseed oil", " 250g pack halloumi cheese , cut into 10-12 slices", " 1 cucumber , halved lengthways, seeds scooped out and cut into chunks",
+        " large bunch either parsley , mint, coriander or basil, or a mixture, chopped, reserving a few leaves to serve", " zest and juice 2 lemons", " ¼ watermelon , cut into chunks, or a 400g pack ready-prepared"],
+        "steps": [
+            "Boil the kettle. Put the bulgur wheat in a bowl with some seasoning, pour over enough hot water to just cover, then cover with cling film and set aside to absorb the liquid while you prepare the remaining ingredients.",
+            "Heat a large frying pan and add the pumpkin seeds, toast for a few mins until the seeds start to crackle and pop, then tip into a dish and set aside. Heat a drizzle of oil in the pan. Add the halloumi slices and fry for 2-3 mins on each side or until golden.",
+            "Unwrap the bulgur wheat and check that it is tender (if not, re-cover and leave for another 5 mins). All the water should have been absorbed, but if not, drain the excess.",
+            "Add the remaining oil, the cucumber, herbs, lemon zest and juice, and pumpkin seeds to the bulgur wheat and toss well. Transfer to a platter, top with the watermelon and halloumi, and scatter with the reserved herbs."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/halloumi_2-babacdc.jpg?quality=90&webp=true&resize=440,400",
+        "originalURL": "https://www.bbcgoodfood.com/recipes/halloumi-watermelon-bulghar-salad"
+    },
+    {
+        "name": "Curried fishcakes",
+        "cooktime": "75 minutes",
+        "ingredients": ["500g Maris Piper potatoes , peeled and cut into 3cm chunks", " 2 tbsp olive oil", " 3 large garlic cloves , crushed", " 1 thumb-sized piece ginger , peeled and grated",
+        " 1 tsp black mustard seeds", " 2-3 heaped tbsp medium curry powder", " 4 skin-on cod fillets", " 400ml semi-skimmed milk", " 1 small lemon , zested and juiced", " 150g plain flour", " 2 medium eggs , beaten",
+        " 150g panko breadcrumbs"," 150g panko breadcrumbs"
+        ],
+        "steps": [
+            "Put the potatoes in a large saucepan, cover with cold water and bring to the boil. Reduce the heat to a simmer and cook for 8-10 mins until tender. Drain and leave to steam-dry for 5 mins. Lightly crush the potatoes with a potato masher until slightly chunky.",
+            "Heat 1 tbsp of the oil in a frying pan over a medium heat. Fry the garlic, ginger, mustard seeds and curry powder for 1 min. Stir the spices through the potatoes, season with salt and set aside. Put the cod in a large saucepan over a medium heat, pour over the milk and bring to a simmer. Immediately remove from the heat, cover and set aside for 10 mins to poach.",
+            "Lift the fish out with a slotted spoon, then remove and discard the skin. Flake the flesh into the potato mixture in large pieces, then fold in with the lemon zest and juice. Shape the mixture into eight fishcakes using your hands. Put the flour, eggs and breadcrumbs in three separate shallow bowls. Dip each fishcake in the flour, then the eggs, then the breadcrumbs. Set aside on a baking sheet. To freeze, cover and freeze on the sheet until solid, then transfer to freezerproof containers.",
+            "Heat the remaining oil in a large non-stick frying pan over a medium heat and heat the oven to low. Fry the fishcakes in batches for 5-6 mins on each side until golden and crisp. Keep warm in the oven as you cook them. Serve with the salad leaves and slaw on the side."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/curried-fishcakes-ef97513.jpg?quality=90&webp=true&resize=440,400",
+        "originalURL": "https://www.bbcgoodfood.com/recipes/curried-fishcakes"
+    },
+    {
+        "name": "Fridge-raid fried rice",
+        "cooktime": "30 minutes",
+        "ingredients": ["2 tbsp vegetable oil", " 1 white onion, finely chopped", " 1 carrot, finely chopped", " 100g green beans, chopped", " 1 red or yellow pepper, finely chopped", " ½ medium broccoli, chopped into small florets",
+        " 150g cooked chicken (or any other meat), roughly chopped", " 300g cold cooked rice", " 2 eggs, beaten", " 1 tbsp sesame oil", " 1 tbsp oyster sauce", " 1 spring onion, finely sliced", " 1 tsp toasted sesame seeds"],
+        "steps": [
+            "Heat half the vegetable oil in a wok or a frying pan over a medium-high heat, and stir-fry the onions, carrots and green beans for 5 mins. Add the peppers, broccoli and chicken, and stir-fry for 3 mins more.",
+            "Tip in the rice and stir-fry for another 4 mins until all the grains of rice have separated. ",
+            "Push the rice and vegetables to the side, then add the remaining vegetable oil to the other. Crack in the egg and scramble briefly before stirring into the veg and chicken mixture.",
+            "Stir in the sesame oil and oyster sauce to coat, then garnish with the spring onions and sesame seeds."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/11/Fridge-raid-fried-rice-614b256.jpg?quality=90&webp=true&resize=400,400",
+        "originalURL": "https://www.bbcgoodfood.com/recipes/fridge-raid-fried-rice"
+    },
+    {
+        "name": "Creamy salmon, leek & potato traybake",
+        "cooktime": "40 minutes",
+        "ingredients": ["250g baby potatoes , thickly sliced", " 2 tbsp olive oil", " 1 leek , halved, washed and sliced", " 1 garlic clove , crushed", " 70ml double cream", " 1 tbsp capers , plus extra to serve", " 1 tbsp chives , plus extra to serve", " 2 skinless salmon fillets", " mixed rocket salad , to serve (optional)"],
+        "steps": [
+            "Heat the oven to 200C/180C fan/gas 6. Bring a medium pan of water to the boil. Add the potatoes and cook for 8 mins. Drain and leave to steam-dry in a colander for a few minutes. Toss the potatoes with ½ of the oil and plenty of seasoning in a baking tray.",
+            "Put in the oven for 20 mins, tossing halfway through the cooking time. Meanwhile, heat the remaining oil in a frying pan over a medium heat. Add the leek and fry for 5 mins, or until beginning to soften.",
+            "Stir through the garlic for 1 min, then add the cream, capers and 75ml hot water, then bring to the boil. Stir through the chives.",
+            "Heat the grill to high. Pour the creamy leek mixture over the potatoes, then sit the salmon fillets on top. Grill for 7-8 mins, or until just cooked through. Serve topped with extra chives and capers and a salad on the side, if you like."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/creamy-salmon-leek-potato-traybake-367b3ff.jpg?quality=90&webp=true&resize=440,400",
+        "originalURL": "https://www.bbcgoodfood.com/recipes/creamy-salmon-leek-potato-traybake"
+    },
+    {
+        "name": "Lighter chicken cacciatore",
+        "cooktime": "65 minutes",
+        "ingredients": [" 1 tbsp olive oil", " 3 slices prosciutto, fat removed, chopped", " 1 medium onion, chopped", " 2 garlic cloves, finely chopped", " 2 sage sprigs", " 2 rosemary sprigs", " 4 skinless chicken breasts (550g total weight), preferably organic", " 150ml dry white wine", 
+        " 400g can plum tomatoes in natural juice", " 1 tbsp tomato purée", " 225g chestnut mushrooms, quartered or halved if large", " small handful chopped flat-leaf parsley, to serve"],
+        "steps": [
+            "Heat the oil in a large non-stick frying pan. Tip in the prosciutto and fry for about 2 mins until crisp. Remove with a slotted spoon, letting any fat drain back into the pan, and set aside. Put the onion, garlic and herbs in the pan and fry for 3-4 mins.",
+            "Spread the onion out in the pan, then lay the chicken breasts on top. Season with pepper and fry for 5 mins over a medium heat, turning the chicken once, until starting to brown on both sides and the onion is caramelising on the bottom of the pan.",
+            "Remove the chicken and set aside on a plate. Raise the heat, give it a quick stir and, when sizzling, pour in the wine and let it bubble for 2 mins to reduce slightly. Lower the heat to medium, return the prosciutto to the pan, then stir in the tomatoes (breaking them up with your spoon), tomato purée and mushrooms.",
+            "Spoon 4 tbsp of water into the empty tomato can, swirl it around, then pour it into the pan. Cover and simmer for 15-20 mins or until the sauce has thickened and reduced slightly, then return the chicken to the pan and cook, uncovered, for about 15 mins or until the chicken is cooked through. Season and scatter over the parsley to serve."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/lighter-chicken-cacciatore-c94e376.jpg?quality=90&webp=true&resize=440,400",
+        "originalURL": "https://www.bbcgoodfood.com/recipes/lighter-chicken-cacciatore"
+    },
+    {
+        "name": "Kedgeree with poached egg",
+        "cooktime": "30 minutes",
+        "ingredients": [" 300g long grain rice", " 2 tbsp olive oil", " 1 onion , finely chopped", " 2 garlic cloves , finely chopped", " 390g pack fish pie mix, defrosted if frozen", " 1 heaped tbsp mild or medium curry powder",
+        " juice 1 lemon", " ¼ small pack parsley , chopped", " 4 eggs"
+        ],
+        "steps": [
+            "Cook the rice following pack instructions, then drain and set aside. Meanwhile, heat 1 tbsp of the oil in a non-stick frying pan and cook the onion and garlic for 5 mins.",
+            "Toss the fish pieces with the curry powder and remaining oil. Add to the pan. Cook for another 5 mins, stirring carefully and turning the fish.",
+            "Add the rice to the pan and turn up the heat, then stir well (the fish will break up a little). Cook for 1-2 mins, then stir in the lemon and parsley. Turn the heat down as low as it will go, and put on a lid.",
+            "Bring a pan of water to the boil, turn down the heat and poach the eggs. Season the kedgeree and divide between plates, topping each with a poached egg."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/kedgeree-5090968.jpg?quality=90&webp=true&resize=440,400",
+        "originalURL": "https://www.bbcgoodfood.com/recipes/kedgeree-poached-egg"
+    },
+    {
+        "name": "American pancakes",
+        "cooktime": "55 minutes",
+        "ingredients": ["200g self-raising flour", " 1 ½ tsp baking powder", " 1 tbsp golden caster sugar", " 3 large eggs", " 25g melted butter, plus extra for cooking", " 200ml milk", " vegetable oil, for cooking", " maple syrup", " toppings of your choice, such as cooked bacon, chocolate chips, blueberries or peanut butter and jam"],
+        "steps": [
+            "Mix 200g self-raising flour, 1 ½ tsp baking powder, 1 tbsp golden caster sugar and a pinch of salt together in a large bowl. Create a well in the centre with the back of your spoon then add 3 large eggs, 25g melted butter and 200ml milk.",
+            "Whisk together either with a balloon whisk or electric hand beaters until smooth then pour into a jug. Heat a small knob of butter and 1 tsp of oil in a large, non-stick frying pan over a medium heat. When the butter looks frothy, pour in rounds of the batter, approximately 8cm wide.",
+            "Make sure you don’t put the pancakes too close together as they will spread during cooking. Cook the pancakes on one side for about 1-2 mins or until lots of tiny bubbles start to appear and pop on the surface. Flip the pancakes over and cook for a further minute on the other side. Repeat until all the batter is used up.",
+            "Serve your pancakes stacked up on a plate with a drizzle of maple syrup and any of your favourite toppings."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/american-style-pancakes-87119e3.jpg?quality=90&webp=true&resize=440,400",
+        "originalURL": "https://www.bbcgoodfood.com/recipes/american-pancakes"
+    },
+    {
+        "name": "Sugar plums",
+        "cooktime": "25 minutes",
+        "ingredients": ["140g white granulated sugar", " ¼ tsp cinnamon", " 1 large egg white", " 12 red plums"],
+        "steps": [
+            "Heat oven to 200C/180C fan/gas 6. Mix the sugar and cinnamon in a bowl.",
+            "Whisk egg white, then roll the plums first in egg white and then the cinnamon sugar until very well coated in a sugary crust.",
+            "Space apart in a buttered baking dish, then bake for 15 mins or until the plums are crusty, cooked through and starting to be juicy.",
+            "To test, poke in a cocktail stick; if it goes in easily, they are ready."
+        ],
+        "timers": [
+            0,
+            0,
+            0,
+            6,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "imageURL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-192619_10-c0f2300.jpg?quality=90&webp=true&resize=440,400",
+        "originalURL": "https://www.bbcgoodfood.com/recipes/sugar-plums"
+    }
+]

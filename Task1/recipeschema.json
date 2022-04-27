@@ -1,0 +1,30 @@
+{
+    "$schema": "https://getcomposer.org/schema.json",
+     "$id": "https://www.bbcgoodfood.com/recipes/curried-chicken-mango-salad",
+     "title": "Recipe",
+     "description": "A recipe from BBC good food",
+     "type": "object",
+     "properties": {
+         "recipeID": {
+             "description": "1",
+             "type": "integer"
+         },
+         "recipeName": {
+             "description": "Curried chicken & mango salad",
+             "type": "string"
+         },
+         "cookTime": {
+             "description": "",
+             "type": "string"
+         },
+         "ingredients":{
+             "description": "",
+             "type": "string"
+         },
+         "steps": {
+             "description": "",
+             "type": "string"
+         }
+         },
+     "required": [ "recipeID", "recipeName", "cookTime" ]
+}
