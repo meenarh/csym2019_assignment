@@ -39,7 +39,7 @@ h2{
 
 .listvalue{
     width: 100%;
-    max-width: 95%;
+    /* max-width: 95%; */
     margin: 1em auto;
     font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }

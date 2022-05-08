@@ -12,6 +12,7 @@ fetch('./recipe.json').then(response => {
 
   data.map(recipe => {
     return (
+
       RecipeEl.innerHTML += `
       
     <div class="container">
@@ -25,9 +26,7 @@ fetch('./recipe.json').then(response => {
           </div>
           <div>
           <p class="steps">Ingredients</p>
-            <ul>
-              <li>${recipe.ingredients}</li>
-            </ul>
+              ${recipe.ingredients}
           </div>
           <div>
           <p class="steps">Method</p>
@@ -37,6 +36,10 @@ fetch('./recipe.json').then(response => {
             <li>${recipe.steps[2]}</li>
             <li>${recipe.steps[3]}</li>
             </ul>
+          </div>
+          <div>
+            <h4 class="steps">Nutritional Facts</h4>
+            <p>${recipe.nutritionalFacts}</p>
           </div>
       </div>
       
@@ -48,7 +51,6 @@ fetch('./recipe.json').then(response => {
 
 
 }).catch(err => {
-  // Do something for an error here
 });
 
 };
